@@ -1,0 +1,67 @@
+.contCard{
+  cursor: pointer;
+}
+.containerboard{
+  background-image: url(https://i.pinimg.com/564x/99/85/68/998568af3ee1a29222f2add14ae3a072.jpg);
+  background-size: 100% auto;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+body {
+  background-color: white;
+  background-size: 100% auto;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.card-img-top {
+  margin-left: 5px;
+  width: 180px; /* ajusta el ancho según tus necesidades */
+  height: 300px; /* ajusta la altura según tus necesidades */
+  object-fit: cover; /* asegura que la imagen cubra todo el espacio */
+}
+
+/* Ajusta el tamaño máximo del contenedor del cuerpo de la tarjeta */
+.card-body {
+  max-width: 15rem; /* Establece el ancho máximo del contenedor del cuerpo de la tarjeta */
+}
+
+/* Establece el fondo transparente para la tarjeta */
+.card {
+  width: 190px;
+  height: 270px;
+  
+   /* Elimina el borde de la tarjeta */
+}
+
+
+
+
+/* Establece el fondo transparente para el contenedor del título */
+.card-title {
+  background-color: transparent !important; /* Hace que el fondo detrás del título sea transparente */
+  color: rgb(255, 255, 255);
+}
+
+/* Establece el fondo transparente para el contenedor del texto */
+.card-text {
+  background-color: transparent !important; /* Hace que el fondo detrás del texto sea transparente */
+  color: rgb(255, 255, 255);
+}
+
+.container-game .card img {
+  margin: auto; /* Alinear la imagen al centro horizontalmente */
+  display: block; /* Asegurarse de que la imagen esté centrada */
+  
+}
+
+h1{
+  background-color: BLACK;
+  color: white;
+  text-align: center;
+}
+.flip-card {
+  width: 320px;
+  height: 2600px;
+  perspective: 2000px;
+}

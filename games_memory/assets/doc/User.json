@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nickname": "OSCURO MAGO",
+    "nombre": "MAGO ",
+    "img": "1.jpg",
+    "valor": 1500
+  },
+  {
+    "id": 2,
+    "nickname": "DRAGONAZUL",
+    "nombre": "DRAGON BLANCO ",
+    "img": "2.jpg",
+    "valor": 2200
+  },
+  {
+    "id": 3,
+    "nickname": "DIOSEQGIPCIO",
+    "nombre": "DRAGO",
+    "img": "3.jpg",
+    "valor": 1800
+  },
+  {
+    "id": 4,
+    "nickname": "DRAGONROJO",
+    "nombre": "DRAGON NEGRO ",
+    "img": "4.jpg",
+    "valor": 2100
+  },
+  {
+    "id": 5,
+    "nickname": "DEMONIO",
+    "nombre": "CRANEO",
+    "img": "5.jpg",
+    "valor": 1900
+  },
+  {
+    "id": 6,
+    "nickname": "WIZARD",
+    "nombre": "TIEMPO",
+    "img": "6.jpg",
+    "valor": 2300
+  },
+  {
+    "id": 7,
+    "nickname": "PROHIBIDO",
+    "nombre": "EXODIA",
+    "img": "7.jpg",
+    "valor": 2500
+  },
+  {
+    "id": 8,
+    "nickname": "REYOSCURO",
+    "nombre": "OSCURO",
+    "img": "8.jpg",
+    "valor": 1700
+  },
+  {
+    "id": 9,
+    "nickname": "TORTUGA",
+    "nombre": "TIGRE TORTUGA",
+    "img": "9.jpg",
+    "valor": 2000
+  },
+  {
+    "id": 10,
+    "nickname": "DRAGONDIOS",
+    "nombre": "SLIFER",
+    "img": "10.jpg",
+    "valor": 2400
+  },
+  {
+    "id": 11,
+    "nickname": "BESTIA",
+    "nombre": "GRIFFORE",
+    "img": "11.jpg",
+    "valor": 2100
+  },
+  {
+    "id": 12,
+    "nickname": "MAGICIAN",
+    "nombre": "MAGO OSCURO ",
+    "img": "12.jpg",
+    "valor": 1800
+  },
+  {
+    "id": 13,
+    "nickname": "DRAGONLUZ",
+    "nombre": "DRAGON DE LUZ ",
+    "img": "13.jpg",
+    "valor": 2200
+  },
+  {
+    "id": 14,
+    "nickname": "LESSER",
+    "nombre": "DRAGON ESPADA",
+    "img": "14.jpg",
+    "valor": 1900
+  },
+  {
+    "id": 15,
+    "nickname": "ACERO",
+    "nombre": "CABALLERO",
+    "img": "15.jpg",
+    "valor": 2300
+  },
+  {
+    "id": 16,
+    "nickname": "BATALLA",
+    "nombre": "BUEY",
+    "img": "16.jpg",
+    "valor": 2000
+  },
+  {
+    "id": 17,
+    "nickname": "OSCURIDAD",
+    "nombre": "PAYASO MISTICO",
+    "img": "17.jpg",
+    "valor": 2500
+  },
+  {
+    "id": 18,
+    "nickname": "INSECTO",
+    "nombre": "GRAN POLILLA",
+    "img": "18.jpg",
+    "valor": 1700
+  },
+  {
+    "id": 19,
+    "nickname": "MAGNETO",
+    "nombre": "GAMMA ",
+    "img": "19.jpg",
+    "valor": 2100
+  },
+  {
+    "id": 20,
+    "nickname": "DINOSAUR",
+    "nombre": "REY REX",
+    "img": "20.jpg",
+    "valor": 2400
+  }
+]
